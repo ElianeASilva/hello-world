@@ -12,6 +12,7 @@ E hoje, com objetivo de solidificar todo conhecimento adquirido desde o ínicio 
 # 💻 Tecnologia Utilizada
 • NodeJs
 
+#
 
 Criei um arquivo chamado helloWorld.js, nele inseri uma variável simples "let" chamada "saudacao". Na próxima linha, inseri um "console.log(saudacao)" utilizando como argumento a variável "saudacao":
 
