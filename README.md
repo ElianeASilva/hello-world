@@ -12,7 +12,8 @@ E hoje, com objetivo de solidificar todo conhecimento adquirido desde o ínicio 
 # 💻 Tecnologia Utilizada
 • NodeJs
 
-#
+
+# 👩‍💻 Como desenvolvi
 
 Criei um arquivo chamado helloWorld.js, nele inseri uma variável simples "let" chamada "saudacao". Na próxima linha, inseri um "console.log(saudacao)" utilizando como argumento a variável "saudacao":
 
@@ -24,7 +25,7 @@ No terminal do VS Code utilizei o comando "node" juntamente com o nome do arquiv
 $ node helloWorld.js
 Hello, world!
 
-# Conclusão
+# ❕ Conclusão
 
 Tirar um tempo para voltar ao básico, é revisitar de onde começou e de certa forma, fortificar a lógica para que o avanço em uma linguagem se torne mais compreensível.
 
